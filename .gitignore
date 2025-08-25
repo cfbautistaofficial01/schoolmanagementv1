@@ -1,0 +1,19 @@
+# CodeIgniter .gitignore
+/system/logs/
+/system/cache/
+/application/cache/
+/application/logs/
+/application/config/database.php
+/application/config/config.php
+.env
+.htaccess
+.DS_Store
+Thumbs.db
+/user_guide/
+/composer.lock
+/vendor/
+/node_modules/
+/uploads/
+/tests/_output/*
+/tests/_support/_generated/*
+!public/uploads/
